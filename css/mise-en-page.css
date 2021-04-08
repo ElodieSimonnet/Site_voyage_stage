@@ -1,0 +1,23 @@
+
+#country_container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    text-align: center;
+    width: 95%;
+    margin: auto;
+    padding-top: 50px;
+   }
+
+.rectangle_blanc {
+	width: 20%;
+	background-color: white;
+	border: 2px solid grey;
+
+}
+
+.rectangle_blanc > img {
+	width: 95%;
+	padding-top: 10px;
+	padding-bottom: auto;
+}

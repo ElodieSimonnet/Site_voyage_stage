@@ -11,6 +11,42 @@
 		
 	</header>
 	<body>
+		<div id="country_container">
+			<div class="rectangle_blanc">
+				<img src="img/jap.png">	
+				
+			</div>
+			<div class="rectangle_blanc">
+				<img src="img/bali.png">
+				<p>Bali</p>
+			</div>
+			<div class="rectangle_blanc">
+				<img src="img/thailande.png">
+				<p>Thaïlande</p>
+			</div>
+			<div class="rectangle_blanc">
+				<img src="img/chine.png">
+				<p>Chine</p>
+			</div>
+			<div class="rectangle_blanc">
+				<img src="img/usa.png">
+				<p>USA</p>
+			</div>
+			<div class="rectangle_blanc">
+				<img src="img/kenya.png">
+				<p>Kenya</p>
+			</div>
+			<div class="rectangle_blanc">
+				<img src="img/canada.png">
+				<p>Canada</p>
+			</div>
+			<div class="rectangle_blanc">
+				<img src="img/egypte.png">
+				<p>Egypte</p>
+			</div>
+		</div>
+
+	
 
 	</body>
 	<footer>
