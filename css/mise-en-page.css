@@ -1,0 +1,19 @@
+
+h1 {
+
+	padding-top: 10px;
+	text-align: center;
+	margin: 0;
+}
+
+header > p {
+
+	text-align: center;
+	margin: 0 auto;
+	padding-bottom: 15px;
+}
+
+#reseau-container {
+
+	height: 20%;
+}

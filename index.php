@@ -14,6 +14,10 @@
 
 	</body>
 	<footer>
-		
+		<div id="reseau-container">
+				<img src="img/facebook.png">
+				<img src="img/insta.png">
+				<img src="img/mail.png">
+		</div>
 	</footer>
 </html>
