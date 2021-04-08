@@ -7,12 +7,16 @@
 	font-style: normal;
 }
 
+header {
+	font-family: 'journalregular';
+}
+
 h1{
-	font-size: 2em;
+	font-size: 4em;
 	color: #89674F;
 }
 
 p{
-	font-size: 1em;
+	font-size: 2em;
 	color: #89674F;
 }
