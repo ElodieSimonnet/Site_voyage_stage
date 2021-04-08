@@ -1,26 +1,35 @@
-
-h1 {
-
-	padding-top: 10px;
-	text-align: center;
-	margin: 0;
-}
-
-header > p {
-
-	text-align: center;
+body {
+	width: 100%;
 	margin: 0 auto;
-	padding-bottom: 15px;
+}
+footer {
+	display: flex;
+	flex-direction: row;
+	padding: 15px 0;
+}
+footer > p {
+	align-self: center;
+	width: 80%;
 }
 
 #reseau-container {
     width: 20%;
-    position: left;
     display: flex;
+    justify-content: space-around;
+   
+
 }
 
 #reseau-container > img {
-	width: 30%;
+	width: 20%;
 	height: auto;
+
 	
+}
+#reseau-container > img:first-child {
+	margin-left: 12.5%;
+}
+
+#reseau-container > img:last-child {
+	margin-right: 12.5%;
 }
