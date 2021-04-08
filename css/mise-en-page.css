@@ -14,6 +14,13 @@ header > p {
 }
 
 #reseau-container {
+    width: 20%;
+    position: left;
+    display: flex;
+}
 
-	height: 20%;
+#reseau-container > img {
+	width: 30%;
+	height: auto;
+	
 }
