@@ -7,9 +7,7 @@
 		<link rel="stylesheet" type="text/css" href="css/mise-en-page.css">
 		<link rel="stylesheet" type="text/css" href="css/fonts.css">
 	</head>
-	<header>
-		
-	</header>
+    <?php include ('header.php'); ?>
 	<body>
 		<div id="country_container">
 			<div class="rectangle_blanc">
@@ -64,10 +62,8 @@
                 <p style="position: absolute; z-index: 2; width: 100%; text-align: center; align-self: flex-end; bottom: 20px; color: white; font-size: 2em">Japon</p>
             </div>
         </div>
-
-
 	</body>
 	<footer>
-		
+
 	</footer>
 </html>
