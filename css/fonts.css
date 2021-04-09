@@ -5,7 +5,7 @@
 	url('fonts/journal-webfont.woff') format('woff');
 	font-weight: normal;
 	font-style: normal;
-}
+    }
 
 header {
 	font-family: 'journalregular';
@@ -19,6 +19,12 @@ h1{
 p{
 	font-size: 2em;
 }
+
+.rectangle_blanc > p {
+	color: white;
+	font-size: 2em;
+}
+
 footer > p {
 	color: #89674F;
 	text-align: center;
