@@ -16,16 +16,13 @@ footer > p {
     width: 20%;
     display: flex;
     justify-content: space-around;
-   
-
 }
 
 #reseau-container > img {
 	width: 20%;
 	height: auto;
-
-	
 }
+
 #reseau-container > img:first-child {
 	margin-left: 12.5%;
 }
