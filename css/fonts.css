@@ -9,14 +9,13 @@
 
 header {
 	font-family: 'journalregular';
+	color: #89674F;
 }
 
 h1{
 	font-size: 4em;
-	color: #89674F;
 }
 
 p{
 	font-size: 2em;
-	color: #89674F;
 }
