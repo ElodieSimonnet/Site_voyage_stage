@@ -1,0 +1,16 @@
+body {
+	width: 100%;
+	margin: 0 auto;
+}
+
+header > p {
+	text-align: center;
+	padding-bottom: 15px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 10px;
+	margin: 0;
+}
