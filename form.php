@@ -7,8 +7,9 @@
 		<link rel="stylesheet" type="text/css" href="css/mise-en-page.css">
 		<link rel="stylesheet" type="text/css" href="css/fonts.css">
 	</head>
+    <?php include ('header.php'); ?>
 	<body>
-        <?php include ('header.php'); ?>
+
 	</body>
     <?php include ('footer.php'); ?>
 </html>
