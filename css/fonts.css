@@ -19,3 +19,8 @@ h1{
 p{
 	font-size: 2em;
 }
+footer > p {
+	color: #89674F;
+	text-align: center;
+	font-family: 'Verdana';
+}
