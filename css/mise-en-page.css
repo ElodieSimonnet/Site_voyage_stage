@@ -1,8 +1,8 @@
+
 body {
 	width: 100%;
 	margin: 0 auto;
 }
-
 header > p {
 	text-align: center;
 	padding-bottom: 15px;
@@ -36,4 +36,31 @@ h1 {
 	width: 95%;
 	padding-top: 10px;
 	padding-bottom: auto;
+}
+footer {
+	display: flex;
+	flex-direction: row;
+	padding: 15px 0;
+}
+footer > p {
+	align-self: center;
+	width: 80%;
+}
+#reseau-container {
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#reseau-container > img {
+	width: 20%;
+	height: auto;
+}
+
+#reseau-container > img:first-child {
+	margin-left: 12.5%;
+}
+
+#reseau-container > img:last-child {
+	margin-right: 12.5%;
 }
