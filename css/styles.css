@@ -1,6 +1,11 @@
 header {
 	background-color: #E3D2C0;
 }
+
+body > #left-panel {
+	background-color: #E3D2C0;
+}
+
 footer {
 	background-color: #E3D2C0;
 }
