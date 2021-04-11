@@ -68,6 +68,7 @@ h4 {
 #ville > p {
 	font-family: 'Verdana';
 	text-align: center;
+	margin: 50px 30px 50px 30px;
 }
 footer > p {
 	color: #89674F;

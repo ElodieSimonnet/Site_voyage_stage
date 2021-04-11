@@ -68,14 +68,15 @@ body {
 }
 
 #conteneur-villes {
-	width: 100%;
+	width: 90%;
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
+	margin: 0 0 0 80px;
 
 }
 
 #ville {
-	width: 300px;
+	width: 400px;
 	
 
 }

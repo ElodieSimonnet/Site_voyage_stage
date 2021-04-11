@@ -44,8 +44,8 @@
 						</div>
 
 						<div id="ville">
-							<img src="img/okkaido.png">
-							<p>Autrefois appelée Yeso ou Ezo, Hokkaido est la plus septentrionale des quatre îles principales de l'archipel du Japon. Parmi les japonais qui y viventse trouvent une minorité d'Aïnous, qui furent les premiers habitants de l'archipel.</p> 
+							<img src="img/hokkaido.png">
+							<p>Hokkaido est la plus septentrionale des quatre îles principales de l'archipel du Japon. Parmi les japonais qui y vivent se trouvent une minorité d'Aïnous, qui furent les premiers habitants de l'archipel.</p> 
  						</div>
 
 						<div id="ville">

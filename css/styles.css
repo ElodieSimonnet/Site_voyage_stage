@@ -11,14 +11,17 @@ header {
 }
 
 #img-gauche {
+	background-color: white;
 	border: 2px solid black;
 }
 
 #img-droite {
+	background-color: white;
 	border: 2px solid black;
 }
 
 #ville {
+	background-color: white;
 	border: 2px solid black;
 }
 
