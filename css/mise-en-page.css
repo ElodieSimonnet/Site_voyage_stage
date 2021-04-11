@@ -3,14 +3,14 @@ body {
 	margin: 0 auto;
 }
 
-img {
+#content > img {
 	width: 100%;
 
 }
 
 #left-panel {
 	width: 20%;
-	height: 1000px;
+	height: 2000px;
 	float: left;
 }
 
@@ -25,14 +25,59 @@ img {
 
 }
 
-#content > h2 {
+#presentation > h2 {
 	width: 100%;
 	text-align: center;
 }
 
-#content > p {
+#presentation > p {
 	text-align: center;
-	margin: auto 40px auto 40px;
+	margin: auto 70px auto 70px;
+}
+
+#conteneur-plats {
+	width: 90%;
+	margin: 0 80px;
+}
+
+#img-gauche {
+	height: 300px;
+	margin: 0 0 30px 0;
+}
+
+#img-droite {
+	height: 300px;
+}
+
+#img-droite > p {
+	margin: auto 15px;
+	
+}
+
+#img-gauche > img {
+	display: flex;
+	float: left;
+	margin-right: 15px;
+
+}
+
+#img-droite > img {
+	display: flex;
+	float: right;
+	margin-left: 15px;
+}
+
+#conteneur-villes {
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+
+}
+
+#ville {
+	width: 300px;
+	
+
 }
 
 header > p {

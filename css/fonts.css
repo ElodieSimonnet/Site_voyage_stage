@@ -19,6 +19,56 @@ h1{
 p{
 	font-size: 2em;
 }
+
+#presentation > h2 {
+	font-family: 'journalregular';
+	color: #89674F;
+	font-size: 3.5em;
+}
+
+#presentation > p {
+	font-family: 'Verdana';
+	font-size: 1.5em;
+	line-height: 45px;
+}
+
+h3 {
+	font-family: 'journalregular';
+	color: #89674F;
+	font-size: 3.2em;
+	text-align: center;
+}
+
+h4 {
+	font-family: 'Verdana';
+	color: #89674F;
+	font-size: 1.8em;
+	text-align: left;
+	margin: 6px auto auto 15px;
+}
+
+#img-gauche > p {
+	font-size: 1.5em;
+	margin: 40px 0 0 15px;
+	line-height: 40px;
+}
+
+#img-droite > p {
+	font-size: 1.5em;
+	margin: 40px 0 0 15px;
+	line-height: 40px;
+
+}
+
+#conteneur-plats {
+	font-family: 'Verdana';
+
+} 
+
+#ville > p {
+	font-family: 'Verdana';
+	text-align: center;
+}
 footer > p {
 	color: #89674F;
 	text-align: center;

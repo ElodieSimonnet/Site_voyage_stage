@@ -2,8 +2,24 @@ header {
 	background-color: #E3D2C0;
 }
 
-body > #left-panel {
+#left-panel {
 	background-color: #E3D2C0;
+}
+
+#content {
+	background-color: #F4F3F3;
+}
+
+#img-gauche {
+	border: 2px solid black;
+}
+
+#img-droite {
+	border: 2px solid black;
+}
+
+#ville {
+	border: 2px solid black;
 }
 
 footer {
