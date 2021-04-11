@@ -6,6 +6,16 @@ header {
 	background-color: #E3D2C0;
 }
 
+.fond_blanc {
+	background-color: white;
+	border: 2px solid black;
+}
+
+.fond_blanc2 {
+	background-color: white;
+	border: 2px solid black;
+}
+
 #content {
 	background-color: #F4F3F3;
 }
@@ -23,6 +33,11 @@ header {
 #ville {
 	background-color: white;
 	border: 2px solid black;
+}
+
+.rectangle_blanc {
+	background-color: white;
+	border: 2px solid black;	
 }
 
 footer {

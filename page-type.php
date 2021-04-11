@@ -11,6 +11,37 @@
 			<img src="img/himeji.png">
 
 		<div id="left-panel">
+			<h2>Japon</h2>
+			<img src="img/carte.png">
+			<h3>Continent :</h3>
+			<p>Asie</p>
+			<h3>Capitale :</h3>
+			<p>Tokyo</p>
+			<h3>Langue :</h3>
+			<p>japonais</p>
+
+			<div id="anecdote_container">
+					<div id="bloc1">
+						<div class="fond_blanc">
+							<img src="img/capsule.png">	
+						</div>
+						<div class="fond_blanc2">
+						</div>
+					</div>
+					<!-- 
+					<div id="bloc2">
+						<div class="fond_blanc">
+							<img src="img/no.png">	
+						</div>
+						<div class="fond_blanc2">
+						</div>
+					</div> 
+				-->
+					
+			</div>
+
+
+
 		</div>
 
 		<div id="content">
@@ -60,25 +91,25 @@
 						<img src="img/galerie1.png">	
 					</div>
 					<div class="rectangle_blanc">
-						<img src="img/jap.png">	
+						<img src="img/galerie2.png">	
 					</div>
 					<div class="rectangle_blanc">
-						<img src="img/jap.png">	
+						<img src="img/galerie3.png">	
 					</div>
 					<div class="rectangle_blanc">
-						<img src="img/jap.png">	
+						<img src="img/galerie4.png">	
 					</div>
 					<div class="rectangle_blanc">
-						<img src="img/jap.png">	
+						<img src="img/galerie5.png">	
 					</div>
 					<div class="rectangle_blanc">
-						<img src="img/jap.png">	
+						<img src="img/galerie6.png">	
 					</div>
 					<div class="rectangle_blanc">
-						<img src="img/jap.png">	
+						<img src="img/galerie7.png">	
 					</div>
 					<div class="rectangle_blanc">
-						<img src="img/jap.png">	
+						<img src="img/galerie8.png">	
 					</div>
 				</div>
 					

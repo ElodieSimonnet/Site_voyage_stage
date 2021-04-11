@@ -20,10 +20,15 @@ p{
 	font-size: 2em;
 }
 
-#presentation > h2 {
+#left-panel > p {
+	text-align: center;
+}
+
+h2 {
 	font-family: 'journalregular';
 	color: #89674F;
 	font-size: 3.5em;
+	text-align: center;
 }
 
 #presentation > p {
