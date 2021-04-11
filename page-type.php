@@ -57,7 +57,7 @@
 
 				<div id="galerie_container">
 					<div class="rectangle_blanc">
-						<img src="img/jap.png">	
+						<img src="img/galerie1.png">	
 					</div>
 					<div class="rectangle_blanc">
 						<img src="img/jap.png">	
