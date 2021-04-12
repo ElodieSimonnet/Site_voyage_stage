@@ -14,7 +14,7 @@
 			<div id="photo">
 				<img src="img/carte.png">
 			</div>
-
+			<div class="trait"></div>
 			<div id="formulaire">
 			<form> 
 				<legend>Formulaire de contact</legend>  

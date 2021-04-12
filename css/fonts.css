@@ -26,6 +26,17 @@ body > p {
 	font-size: 1.5em;
 }
 
+legend {
+	font-family: 'Verdana';
+	font-size: 1.2em;
+	font-weight: bold;
+}
+
+label {
+	font-family: 'Verdana';
+	font-size: 1em;
+}
+
 footer > p {
 	color: #89674F;
 	text-align: center;
