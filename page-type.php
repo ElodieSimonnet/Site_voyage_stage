@@ -8,7 +8,7 @@
 	</head>
     <?php include ('header.php'); ?>
 	<body>
-			<img src="img/himeji.png">
+			<img src="img/himeji.png" id="fullpageimg">
 
 		<div id="left-panel">
 			<h2>Japon</h2>
@@ -23,12 +23,12 @@
 			<div id="anecdote_container">
 					<div id="bloc1">
 						<div class="fond_blanc">
-							<img src="img/capsule.png">	
+							<img src="img/capsule.png">
 						</div>
 						<div class="fond_blanc2">
 						</div>
 					</div>
-					<!-- 
+					<p>Le premier hôtel capsule a ouvert ses portes le 1er février 1979 à Osaka.</p>
 					<div id="bloc2">
 						<div class="fond_blanc">
 							<img src="img/no.png">	
@@ -36,7 +36,7 @@
 						<div class="fond_blanc2">
 						</div>
 					</div> 
-				-->
+					<p>Les acteurs du théâtre Nô sont uniquement des hommes et la plupart des pièces tournent au tragique.</p>
 					
 			</div>
 

@@ -24,6 +24,12 @@ p{
 	text-align: center;
 }
 
+#anecdote_container > p {
+	width: 80%;
+	font-size: 1.5em;
+	margin: 40px 0 250px 40px;
+}
+
 h2 {
 	font-family: 'journalregular';
 	color: #89674F;

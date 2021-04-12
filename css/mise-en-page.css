@@ -3,7 +3,7 @@ body {
 	margin: 0 auto;
 }
 
-#content > img {
+#fullpageimg {
 	width: 100%;
 
 }
@@ -28,10 +28,10 @@ body {
 }
 
 #anecdote_container {
-	height: 1500px;
 	display: flex;
 	flex-direction: column;
 	justify-content: space-around;
+	margin: 320px 20px;
 }
 
 .fond_blanc {
@@ -48,7 +48,25 @@ body {
 	margin: 30px 52px;
 	z-index: 0;
 	position: relative;
+	
+}
+
+#bloc1 {
+	right: 20px;
+	position: relative;
+}
+
+#bloc1 > .fond_blanc2 {
 	transform: rotate(-8deg);
+}
+
+#bloc2 {
+	right: 20px;
+	position: relative;
+}
+
+#bloc2 > .fond_blanc2 {
+	transform: rotate(8deg);
 }
 
 .fond_blanc > img {
