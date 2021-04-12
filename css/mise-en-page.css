@@ -90,8 +90,18 @@ article {
 	padding: 2px 0 0 0;
 }
 
+#timbre_blanc {
+	width: 110px;
+	height: 61px;
+	margin: 30px 10px 5px auto;
+}
+
+#timbre_blanc > img {
+	margin: 3px;
+}
+
 button {
-	margin: 0 0 0 170px;
+	margin: 0 0 0 130px;
 }
 
 footer {

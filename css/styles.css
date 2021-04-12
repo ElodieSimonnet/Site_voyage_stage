@@ -15,6 +15,16 @@ body {
 	border: 1px solid grey;
 }
 
+#timbre_blanc {
+	border: 1px solid grey;
+	background-color: white;
+}
+
+button {
+	background-color: white;
+	border: 1px solid grey;
+}
+
 footer {
 	background-color: #E3D2C0;
 }

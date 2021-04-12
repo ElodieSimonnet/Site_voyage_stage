@@ -11,13 +11,18 @@
 	<body>
 		<p> Si vous avez une question, vous pouvez me contacter en remplissant ce formulaire, par mail ou sur les réseaux sociaux. </p>
 		<div id="carte_blanche">
+
 			<div id="photo">
 				<img src="img/carte.png">
 			</div>
 			<div class="trait"></div>
+
+			
 			<div id="formulaire">
 			<form> 
-				<legend>Formulaire de contact</legend>  
+
+				<legend>Formulaire de contact</legend> 
+
   				<article id="case"> 
     				<label for="name">Votre nom:</label>
     				<input type="text" id="name" name="user_name" >
@@ -36,6 +41,9 @@
     				<button type="submit">ENVOYER</button>
             	</article>
     		</form>
+    		<div id="timbre_blanc">
+    		<img src="img/timbre.png">	
+    		</div>
     		</div>
 
 		</div>
