@@ -129,10 +129,22 @@ h2 {
 
 }
 
+#ville > h5 {
+	width: 400px;
+	position: absolute;
+	z-index: 1;
+	margin: 220px 0 10px 0;
+}
+
+#ville > img {
+	position: absolute;
+	z-index: 0;
+}
+
+
 #ville {
 	width: 400px;
-	
-
+	display: flex;
 }
 
 #galerie_container {

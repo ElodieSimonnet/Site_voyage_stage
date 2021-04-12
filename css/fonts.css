@@ -79,8 +79,16 @@ h4 {
 #ville > p {
 	font-family: 'Verdana';
 	text-align: center;
-	margin: 50px 30px 50px 30px;
+	margin: 350px 30px 50px 30px;
 }
+
+h5 {
+	font-family: 'journalregular';
+	text-align: center;
+	font-size: 4em;
+	color: white;	
+}
+
 footer > p {
 	color: #89674F;
 	text-align: center;
