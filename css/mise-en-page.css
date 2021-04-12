@@ -22,14 +22,14 @@ body > p {
 
 #carte_blanche {
 	width: 60%;
-	height: 460px;
 	margin: 0 auto;
+	display: flex;
+	margin-bottom: 45px;
 }
 
 
 #photo {
 	width: 50%;
-	height: 474px;
 }
 
 #photo > img {
