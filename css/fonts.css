@@ -37,6 +37,10 @@ label {
 	font-size: 1em;
 }
 
+button {
+	font-family:'Verdana';
+}
+
 footer > p {
 	color: #89674F;
 	text-align: center;
