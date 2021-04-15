@@ -12,11 +12,11 @@ header {
 	color: #89674F;
 }
 
-h1{
+h1 {
 	font-size: 4em;
 }
 
-p{
+p {
 	font-size: 2em;
 }
 
@@ -41,6 +41,7 @@ h2 {
 	font-family: 'Verdana';
 	font-size: 1.5em;
 	line-height: 45px;
+	text-align: center;
 }
 
 h3 {
@@ -79,7 +80,9 @@ h4 {
 #ville > p {
 	font-family: 'Verdana';
 	text-align: center;
+	font-size: 2em;
 	margin: 350px 30px 50px 30px;
+
 }
 
 h5 {
