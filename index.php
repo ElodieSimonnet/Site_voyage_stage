@@ -11,42 +11,38 @@
 	<body>
 		<div id="country_container">
 			<div class="rectangle_blanc">
-				<img src="img/jap.png">	
+				<img src="img/jap.png" alt="photo Japon">	
 				<p>Japon</p>
 			</div>
 			<div class="rectangle_blanc">
-				<img src="img/bali.png">
+				<img src="img/bali.png" alt="photo Bali">
 				<p>Bali</p>
 			</div>
 			<div class="rectangle_blanc">
-				<img src="img/thailande.png">
+				<img src="img/thailande.png" alt="photo Thaïlande">
 				<p>Thaïlande</p>
 			</div>
 			<div class="rectangle_blanc">
-				<img src="img/chine.png">
+				<img src="img/chine.png" alt="photo Chine">
 				<p>Chine</p>
 			</div>
 			<div class="rectangle_blanc">
-				<img src="img/usa.png">
+				<img src="img/usa.png" alt="photo USA">
 				<p>USA</p>
 			</div>
 			<div class="rectangle_blanc">
-				<img src="img/kenya.png">
+				<img src="img/kenya.png" alt="photo Kenya">
 				<p>Kenya</p>
 			</div>
 			<div class="rectangle_blanc">
-				<img src="img/canada.png">
+				<img src="img/canada.png" alt="photo Canada">
 				<p>Canada</p>
 			</div>
 			<div class="rectangle_blanc">
-				<img src="img/egypte.png">
+				<img src="img/egypte.png" alt="photo Egypte">
 				<p>Egypte</p>
 			</div>
 		</div>
-
-       
-
-
 	</body>
 	<?php include ('footer.php'); ?>
 </html>

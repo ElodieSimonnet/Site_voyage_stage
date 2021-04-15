@@ -12,17 +12,18 @@ header {
 	color: #89674F;
 }
 
-h1{
+h1 {
 	font-size: 4em;
 }
 
-p{
+header > p{
 	font-size: 2em;
 }
 
 .rectangle_blanc > p {
+	font-family: 'journalregular';
 	color: white;
-	font-size: 2em;
+	font-size: 4em;
 }
 
 footer > p {
