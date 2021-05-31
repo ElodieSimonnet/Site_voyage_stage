@@ -1,0 +1,77 @@
+header > p {
+	text-align: center;
+	padding-bottom: 15px;
+	margin: 0 auto;
+}
+
+h1 {
+	text-align: center;
+	padding-top: 10px;
+	margin: 0;
+}
+
+body {
+	width: 100%;
+	margin: 0 auto;
+}
+
+#country_container {
+	width: 95%;
+    display: flex;
+    justify-content: space-between; 
+    flex-wrap: wrap;  
+    margin: 30px auto 30px auto;
+ }
+
+.rectangle_blanc {
+	width: 20%;
+	border: 2px solid grey;
+	z-index: 0; 
+	display: flex; 
+	position: relative;
+	margin-bottom: 20px;
+}
+
+.rectangle_blanc > img {
+	width: 96%;
+	margin: 8px auto 38px auto; 
+	z-index: 1; 
+	position: relative; 
+}
+
+.rectangle_blanc > p {
+	width: 100%;
+ 	text-align: center;
+ 	bottom: 20px;
+	position: absolute;
+	z-index: 2;
+	margin: 0 0 15px 0;  
+}
+
+footer {
+	display: flex;
+	flex-direction: row;
+	padding: 15px 0;
+}
+footer > p {
+	align-self: center;
+	width: 80%;
+}
+#reseau-container {
+    width: 20%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#reseau-container > img {
+	width: 20%;
+	height: auto;
+}
+
+#reseau-container > img:first-child {
+	margin-left: 12.5%;
+}
+
+#reseau-container > img:last-child {
+	margin-right: 12.5%;
+}
