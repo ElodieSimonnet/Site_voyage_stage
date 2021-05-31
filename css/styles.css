@@ -29,6 +29,44 @@ button {
 	background-color: white;
 }
 
+#left-panel {
+	background-color: #E3D2C0;
+}
+
+.fond_blanc {
+	background-color: white;
+	border: 2px solid grey;
+}
+
+.fond_blanc2 {
+	background-color: white;
+	border: 2px solid grey;
+}
+
+#content {
+	background-color: #F4F3F3;
+}
+
+#img-gauche {
+	background-color: white;
+	border: 2px solid grey;
+}
+
+#img-droite {
+	background-color: white;
+	border: 2px solid grey;
+}
+
+#ville {
+	background-color: white;
+	border: 2px solid grey;
+}
+
+.rectangle_blanc {
+	background-color: white;
+	border: 2px solid grey;	
+}
+
 footer {
 	background-color: #E3D2C0;
 }

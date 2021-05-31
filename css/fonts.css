@@ -16,8 +16,84 @@ h1 {
 	font-size: 4em;
 }
 
-header > p{
+p {
 	font-size: 2em;
+}
+
+header > p {
+    font-size: 2em;
+}
+
+#left-panel > p {
+	text-align: center;
+}
+
+#anecdote_container > p {
+	width: 80%;
+	font-size: 1.5em;
+	margin: 40px 0 250px 40px;
+}
+
+h2 {
+	font-family: 'journalregular';
+	color: #89674F;
+	font-size: 3.5em;
+	text-align: center;
+}
+
+#presentation > p {
+	font-family: 'Verdana';
+	font-size: 1.5em;
+	line-height: 45px;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'journalregular';
+	color: #89674F;
+	font-size: 3.2em;
+	text-align: center;
+}
+
+h4 {
+	font-family: 'Verdana';
+	color: #89674F;
+	font-size: 1.8em;
+	text-align: left;
+	margin: 6px auto auto 15px;
+}
+
+#img-gauche > p {
+	font-size: 1.5em;
+	margin: 40px 0 0 15px;
+	line-height: 40px;
+}
+
+#img-droite > p {
+	font-size: 1.5em;
+	margin: 40px 0 0 15px;
+	line-height: 40px;
+
+}
+
+#conteneur-plats {
+	font-family: 'Verdana';
+
+} 
+
+#ville > p {
+	font-family: 'Verdana';
+	text-align: center;
+	font-size: 2em;
+	margin: 350px 30px 50px 30px;
+
+}
+
+h5 {
+	font-family: 'journalregular';
+	text-align: center;
+	font-size: 4em;
+	color: white;	
 }
 
 .rectangle_blanc > p {
@@ -25,7 +101,6 @@ header > p{
 	color: white;
 	font-size: 4em;
 }
-
 
 body > p {
 	font-family: 'Verdana';
