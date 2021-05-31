@@ -26,6 +26,28 @@ header > p{
 	font-size: 4em;
 }
 
+
+body > p {
+	font-family: 'Verdana';
+	text-align: center;
+	font-size: 1.5em;
+}
+
+legend {
+	font-family: 'Verdana';
+	font-size: 1em;
+	font-weight: bold;
+}
+
+label {
+	font-family: 'Verdana';
+	font-size: 1em;
+}
+
+button {
+	font-family:'Verdana';
+}
+
 footer > p {
 	color: #89674F;
 	text-align: center;
