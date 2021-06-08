@@ -1,4 +1,5 @@
-<html>
+<!doctype html>  
+<html lang="fr">
 	<head>
 		<meta charset="utf-8">
 		<title>Voyageurs du monde - pays</title>
@@ -60,19 +61,19 @@
 			</div>  
 			<h3> Villes à visiter </h3>
 			<div id="conteneur-villes">
-				<div id="ville">
+				<div class="ville">
 					<img src="img/nara.png" alt="photo Nara">
 					<h5>Nara</h5>
 					<p>Au centre-sud de l'île d'Honshū, Nara est la capitale de la préfecture japonaise du même nom. La ville abrite des œuvres d'art et des temples importants qui remontent au VIIIe siècle, lorsqu'elle était la capitale du Japon.
 					</p> 
 				</div>
-				<div id="ville">
+				<div class="ville">
 					<img src="img/hokkaido.png" alt="photo Hokkaido">
 					<h5>Hokkaido</h5>
 					<p>Hokkaido est la plus septentrionale des quatre îles principales de l'archipel du Japon. Parmi les japonais qui y vivent se trouvent une minorité d'Aïnous, qui furent les premiers habitants de l'archipel.
 					</p> 
  				</div>
-				<div id="ville">
+				<div class="ville">
 					<img src="img/okinawa.png" alt="photo Okinawa">
 					<h5>Okinawa</h5>
 					<p>Ile de l'archipel Ryukyu, Okinawa est une ville dont les habitants soulignent avec force leur passé de royaume indépendant et leur différence culturelle avec le Japon. La région est connue pour ses plages et la beauté de ses eaux.

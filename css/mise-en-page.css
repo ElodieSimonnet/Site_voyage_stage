@@ -245,18 +245,18 @@ body {
 	margin: 0 0 0 80px;
 }
 
-#ville {
+#conteneur-villes > .ville {
 	width: 400px;
 }
 
-#ville > h5 {
+#conteneur-villes > .ville > h5 {
 	width: 400px;
 	position: absolute;
 	z-index: 1;
 	margin: 220px 0 10px 0;
 }
 
-#ville > img {
+#conteneur-villes > .ville > img {
 	position: absolute;
 }
 

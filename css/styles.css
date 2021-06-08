@@ -57,7 +57,7 @@ button {
 	border: 2px solid grey;
 }
 
-#ville {
+#conteneur-villes > .ville {
 	background-color: white;
 	border: 2px solid grey;
 }

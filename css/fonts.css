@@ -81,7 +81,7 @@ h4 {
 
 } 
 
-#ville > p {
+#conteneur-villes > .ville > p {
 	font-family: 'Verdana';
 	text-align: center;
 	font-size: 2em;
