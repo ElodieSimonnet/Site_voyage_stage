@@ -51,13 +51,20 @@ form {
 	flex-direction: column;
 }
 
-legend {
+form > h1 {
 	width: 100%;
 	text-align: center;
 	margin: 30px 0;
+	padding: 0;
 }
 
-article {
+#case {
+	width: 100%;
+	margin: 0 0 0 80px;
+	padding: 2px 0 0 0;
+}
+
+#bouton {
 	width: 100%;
 	margin: 0 0 0 80px;
 	padding: 2px 0 0 0;

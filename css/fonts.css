@@ -108,7 +108,7 @@ body > p {
 	font-size: 1.5em;
 }
 
-legend {
+form > h1 {
 	font-family: 'Verdana';
 	font-size: 1em;
 	font-weight: bold;

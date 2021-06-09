@@ -18,8 +18,8 @@
 			</div>
 			<div id="formulaire">
 				<form> 
-					<legend>Formulaire de contact</legend> 
-					<article id="case"> 
+					<h1>Formulaire de contact</h1> 
+					<div id="case"> 
     					<label for="name">Votre nom:</label>
     					<input type="text" required id="name" name="user_name">
 						<label for="mail">Votre e-mail:</label>
@@ -28,10 +28,10 @@
     					<input type="text" id="objet" name="objet">
 						<label for="msg">Votre message:</label>
         				<textarea id="msg" name="user_message"></textarea>
-        			</article>
-					<article>
+        			</div>
+					<div id="bouton">
     					<button type="submit">ENVOYER</button>
-            		</article>
+            		</div>
     			</form>
     			<div id="timbre_blanc">
     				<img src="img/timbre.png" alt="timbre décoratif">	
